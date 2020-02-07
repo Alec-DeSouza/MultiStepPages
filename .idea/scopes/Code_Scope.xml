@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Code Scope" pattern="file[app]:src/main/java//*||file[multisteppages]:src/main/java//*" />
+</component>
